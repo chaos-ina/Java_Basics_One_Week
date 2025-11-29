@@ -14,9 +14,9 @@
 
 | 日 | テーマ | 内容 | 進捗 |
 |---|---|---|:---:|
-| [0日目](https://java.sevendays-study.com/day0.html) | **Javaとは** | Java言語の概要と環境構築 | |
-| [1日目](https://java.sevendays-study.com/day1.html) | **はじめの一歩** | 初めてのJavaプログラム（Hello World） | |
-| [2日目](https://java.sevendays-study.com/day2.html) | **演算と変数** | データ型、変数、演算子の使い方 | |
+| [0日目](https://java.sevendays-study.com/day0.html) | **Javaとは** | Java言語の概要と環境構築 |✅|
+| [1日目](https://java.sevendays-study.com/day1.html) | **はじめの一歩** | 初めてのJavaプログラム（Hello World） |✅|
+| [2日目](https://java.sevendays-study.com/day2.html) | **演算と変数** | データ型、変数、演算子の使い方 |✅|
 | [3日目](https://java.sevendays-study.com/day3.html) | **条件分岐** | if文、switch文での制御 | |
 | [4日目](https://java.sevendays-study.com/day4.html) | **繰り返し処理** | for文、while文でのループ | |
 | [5日目](https://java.sevendays-study.com/day5.html) | **配列変数** | 配列の宣言と使い方 | |
