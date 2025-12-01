@@ -17,7 +17,7 @@
 | [0日目](https://java.sevendays-study.com/day0.html) | **Javaとは** | Java言語の概要と環境構築 |✅|
 | [1日目](https://java.sevendays-study.com/day1.html) | **はじめの一歩** | 初めてのJavaプログラム（Hello World） |✅|
 | [2日目](https://java.sevendays-study.com/day2.html) | **演算と変数** | データ型、変数、演算子の使い方 |✅|
-| [3日目](https://java.sevendays-study.com/day3.html) | **条件分岐** | if文、switch文での制御 | |
+| [3日目](https://java.sevendays-study.com/day3.html) | **条件分岐** | if文、switch文での制御 |✅|
 | [4日目](https://java.sevendays-study.com/day4.html) | **繰り返し処理** | for文、while文でのループ | |
 | [5日目](https://java.sevendays-study.com/day5.html) | **配列変数** | 配列の宣言と使い方 | |
 | [6日目](https://java.sevendays-study.com/day6.html) | **クラスとオブジェクト** | オブジェクト指向の基本 | |
@@ -28,7 +28,7 @@
 | No. | 内容 | 対応する日数 | 進捗 |
 |:---:|---|:---:|:---:|
 | 1 | 最も基本的なプログラム、演算と変数 | 1日目、2日目 |✅|
-| 2 | 条件分岐 | 3日目 | |
+| 2 | 条件分岐 | 3日目 |✅|
 | 3 | 繰り返し処理 | 4日目 | |
 | 4 | 配列変数 | 5日目 | |
 | 5 | クラスとオブジェクト | 6日目 | |
