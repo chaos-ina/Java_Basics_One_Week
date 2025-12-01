@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Java: Compile and Run (Package)",
+            "type": "shell",
+            "command": "cd \"${fileDirname}\\..\" ; if ($?) { javac -encoding UTF-8 \"${fileDirnameBasename}\\*.java\" } ; if ($?) { java \"${fileDirnameBasename}.${fileBasenameNoExtension}\" }",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared",
+                "clear": true
+            },
+            "problemMatcher": [
+                "$javac"
+            ]
+        }
+    ]
+}
