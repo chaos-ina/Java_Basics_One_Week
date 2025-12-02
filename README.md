@@ -2,6 +2,11 @@
 
 [一週間で身につくJava言語の基本](https://java.sevendays-study.com/index.html)を参考に、Javaの基礎を学習するための個人リポジトリです。
 
+## ⚠️ 注意事項
+
+- [youtubeでの講座](https://www.youtube.com/watch?v=dzy1ipa20Kk) に移行することにしたため、[一週間で身につくJava言語の基本](https://java.sevendays-study.com/index.html)での学習は途中で終わっています
+- 一部[一週間で身につくJava言語の基本](https://java.sevendays-study.com/index.html)とは内容が異なります
+
 ## 🎯 学習の目的
 
 - Javaプログラミングの基礎を習得する
@@ -20,8 +25,7 @@
 | [3日目](https://java.sevendays-study.com/day3.html) | **条件分岐** | if文、switch文での制御 |✅|
 | [4日目](https://java.sevendays-study.com/day4.html) | **繰り返し処理** | for文、while文でのループ |✅|
 | [5日目](https://java.sevendays-study.com/day5.html) | **配列変数** | 配列の宣言と使い方 |✅|
-| [6日目](https://java.sevendays-study.com/day6.html) | **クラスとオブジェクト** | オブジェクト指向の基本 | |
-| [7日目](https://java.sevendays-study.com/day7.html) | **アクセス指定子** | publicやprivateの使い分け | |
+| [6日目](https://java.sevendays-study.com/day6.html) | **クラスとオブジェクト** | オブジェクト指向の基本 |✅|
 
 #### 基本編の練習問題
 
@@ -31,35 +35,7 @@
 | 2 | 条件分岐 | 3日目 |✅|
 | 3 | 繰り返し処理 | 4日目 |✅|
 | 4 | 配列変数 | 5日目 |✅|
-| 5 | クラスとオブジェクト | 6日目 | |
-| 6 | アクセス指定子とカプセル化 | 7日目 | |
-| 7 | チャレンジ問題 | すべて | |
-
-### 応用編（7日間）
-
-| 日 | テーマ | 内容 | 進捗 |
-|---|---|---|:---:|
-| [1日目](https://java.sevendays-study.com/ex-day1.html) | **静的メンバ** | staticの理解と活用 | |
-| [2日目](https://java.sevendays-study.com/ex-day2.html) | **継承** | クラスの継承とオーバーライド | |
-| [3日目](https://java.sevendays-study.com/ex-day3.html) | **抽象クラス** | abstract修飾子の使い方 | |
-| [4日目](https://java.sevendays-study.com/ex-day4.html) | **インターフェース** | interfaceの実装 | |
-| [5日目](https://java.sevendays-study.com/ex-day5.html) | **コレクション①** | List、Setの使い方 | |
-| [6日目](https://java.sevendays-study.com/ex-day6.html) | **コレクション②** | Mapとその他のコレクション | |
-| [7日目](https://java.sevendays-study.com/ex-day7.html) | **例外処理** | try-catchでのエラーハンドリング | |
-
-#### 応用編の練習問題
-
-| No. | 内容 | 対応する日数 | 進捗 |
-|:---:|---|:---:|:---:|
-| 1 | 静的メンバ | 1日目 | |
-| 2 | 継承 | 2日目 | |
-| 3 | 抽象クラス | 3日目 | |
-| 4 | インターフェース | 4日目 | |
-| 5 | コレクション① | 5日目 | |
-| 6 | コレクション② | 6日目 | |
-| 7 | 例外処理 | 7日目 | |
-
-> 💡 **ヒント**: 進捗欄に ✅ や 📝 などを記入して、学習状況を管理できます！
+| 5 | クラスとオブジェクト | 6日目 |✅|
 
 ## 🚀 開発環境
 
