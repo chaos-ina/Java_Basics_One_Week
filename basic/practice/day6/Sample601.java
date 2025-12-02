@@ -1,4 +1,4 @@
-package day6;
+package basic.practice.day6;
 
 public class Sample601 {
     public static void main(String[] args) {

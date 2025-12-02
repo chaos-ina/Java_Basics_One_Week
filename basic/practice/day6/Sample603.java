@@ -1,4 +1,4 @@
-package day6;
+package basic.practice.day6;
 
 public class Sample603 {
     public static void main(String[] args) {
@@ -30,7 +30,7 @@ public class Sample603 {
         // やってみよう (Try this)
         // ==========================================================
         // 1. attack() を3回連続で呼び出してみましょう
-        for(int i = 0; i < 3; i++) {
+        for (int i = 0; i < 3; i++) {
             hero.attack();
         }
         // 2. SampleClass03で作った runAway() メソッドをここで呼び出してみましょう

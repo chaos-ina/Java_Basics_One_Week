@@ -1,4 +1,4 @@
-package day1;
+package basic.practice.day1;
  
 public class Sample103 {
  

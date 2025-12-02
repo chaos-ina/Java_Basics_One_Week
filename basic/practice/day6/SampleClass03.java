@@ -1,4 +1,4 @@
-package day6;
+package basic.practice.day6;
 
 public class SampleClass03 {
     // ==========================================================
@@ -44,8 +44,7 @@ public class SampleClass03 {
     // ==========================================================
     // 1. 新しいメソッド runAway() (逃げる) を作ってみましょう
     // (中身は "〇〇は逃げ出した！" と表示するだけでOK)
-    public void runAway()
-    {
+    public void runAway() {
         System.out.println(this.name + "は逃げ出した！");
     }
     // 2. heal() メソッドの回復量を 20 から 50 に変えてみましょう
